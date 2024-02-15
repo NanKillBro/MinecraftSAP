@@ -1,6 +1,9 @@
-- Fabric 1.20.4 (Beta v1.1) [Performance Improvement and Bug Fixes]
-  + Update: BadOptimizations, c2me, Fabric API, ResourcePackChecker, VMP, Fasterrandom
-  + Added: Iris
-  + Hotfix: Block changing direction for no reason and stack item look weird
-  + Delete some config file for stability and performance on every PC
-  + Some small change....
+Fabric 1.20.4 (Beta v1.1) [Performance Improvement and Bug Fixes]
+- Update: BadOptimizations, c2me, Fabric API, ResourcePackChecker, VMP, Fasterrandom
+- Added: Iris
+- Hotfix: Block changing direction for no reason and stack item look weird
+- Delete some config file for stability and performance on every PC
+- Some small change....
+- Known issue: 
+  + THE DYNAMIC LIGHT IS LITERALLY FUCKED AND I DON'T KNOW WHAT CAUSE THE PROBLEM LOL
+  
