@@ -5,5 +5,5 @@ Fabric 1.20.4 (Beta v1.1) [Performance Improvement and Bug Fixes]
 - Delete some config file for stability and performance on every PC
 - Some small change....
 - Known issue: 
-  + THE DYNAMIC LIGHT IS LITERALLY FUCKED AND I DON'T KNOW WHAT CAUSE THE PROBLEM LOL
+  + Dynamic Light by default will not work (my bad), you will need to go to your video setting and turn on smooth lighting in order it to work. I will turn on this by default in the next release
   
