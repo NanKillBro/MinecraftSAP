@@ -1,7 +1,7 @@
 Fabric 1.20.4 (Release v2.2) [Performance Improvement and Bug Fixes, Out of Beta]
-  - Upstream: 5.8.0-beta.11 for 1.20.4 and FO 5.8.0-beta.12 for 1.20.4
-  - Update: Fabric API, Dynamic FPS, Fabric Language Kotlin, Remove Reloading Screen, Entity Model Features, Faster Random, forcecloseloadingscreen, c2me, Stxck, BadOptimization
-  - Added: FixMCStats, Particle Core
-  - Remove: Better Beds (Hotfix: 1)
-  - Hotfix: 1. Fix bed still look very weird ; 2. Remove the "null" text from discord rpc
-  - Small Changes: (Look FO Modpacks changelog of 2 version I mention in upstream for more infomation), Remove some default config file for it automatically generate when game first launch, reconfig lambdynamiclight.
+- Upstream: 5.8.0-beta.11 for 1.20.4 and FO 5.8.0-beta.12 for 1.20.4
+- Update: Fabric API, Dynamic FPS, Fabric Language Kotlin, Remove Reloading Screen, Entity Model Features, Faster Random, forcecloseloadingscreen, c2me, Stxck, BadOptimization
+- Added: FixMCStats, Particle Core
+- Remove: Better Beds (Hotfix: 1)
+- Hotfix: 1. Fix bed still look very weird ; 2. Remove the "null" text from discord rpc
+- Small Changes: (Look FO Modpacks changelog of 2 version I mention in upstream for more infomation), Remove some default config file for it automatically generate when game first launch, reconfig lambdynamiclight.
