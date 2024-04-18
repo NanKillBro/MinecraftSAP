@@ -1,0 +1,6 @@
+- Fabric 1.20.4 (Release v2.3) [Performance Improvement and Bug Fixes - Huge Update after a month :D]
+  + Upstream FO things 
+  + Update: Fabric API, Mod Detection Preventer, Entity Culling, ModernFix, ImmediatelyFast, Debugify, Zoomify, Controlify, Noisium, Faster Random, Very Many Players, Remove Reloading Screen, Server Core, Better Statistics Screen, ClientSideNoteBlocks, C2me, CraftPresence, FancyMenu, FixMCStats, Gamma Utils, Konkrete, Melody, Mod Menu, Modpack Update Checker, More Culling, No Chat Reports, OptiGUI
+  + Added: Cubes Without Borders, CIT Resewn, Polytone, "Cannot remove from team" workaround, Video Tape, Hold That Chunk
+  + Remove: Boardless Mining
+  + Small Changes: Compact the text in Modpack Info, require fabric loader 0.15.10, update language packs,.....
