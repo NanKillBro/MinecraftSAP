@@ -28,7 +28,7 @@
                 "generic": "https://hcmedu-my.sharepoint.com/:f:/g/personal/ttmquyen_mntt1bc_hcm_edu_vn/En_9CK6Sm7tKkcjKJJ8l3j8BmDmsFr8jy8ajuQmuhsl0YQ?e=WyJ13Q"
             }
         }
-    },
+    }
         {
         "id": "v2.3",
         "releasedAt": 1713421642498,
@@ -38,5 +38,14 @@
             }
         }
     }
+          {
+        "id": "v2.4",
+        "releasedAt": 1719224766761,
+        "promotions": {
+            "downloads": {
+                "generic": "https://1235rq-my.sharepoint.com/:f:/g/personal/nankill_auq3l_is-a_dev/EoRMU9ieKp1KggHoJqXL170BMizsYwW-L81l9nO1Wu3tgQ"
+            }
+        }
+    },
 ]
 }
