@@ -1,0 +1,9 @@
+- Fabric 1.20.4 (Release v2.4) [Performance Improvement and Bug Fixes - Huge Update after 2 months??? :D]
+  + Upstream FO 5.10.0, 5.10.1, 5.10.2
+  + Update: Entity Model Features, Entity Texture Features, Controlify, Dynamic FPS, ModernFix, No Chat Reports, YetAnotherConfigLib, Continuity, Fabric Language Kotlin, ImmediatelyFast, Language Reload, Polytone, MoreCulling, Zoomify, Iris, Enhanced Block Entities, Entity Culling, Fabric API, Animatica, BadOptimizations, c2me, CraftPresence, CraftPresence, e4mc, FancyMenu, Faster Random, Indium, Ksyxis, Let Me Despawn, Mod Menu, Modpack Update Checker, Noisium, OptiGUI, Server Resourcepack Checker.
+  + Added: Text Placeholder API, StutterFix, Alternate Current, experimentalPerformance, Potatoptimize
+  + Remove: Mod Detection Preventer, Particle Core (Fix.1).
+  + Fix: 1.Game crash randomly 
+  + Small Changes: Change LambDynamicLight setting to fast rather than fastest.
+  + Note: Enforced Fabric Loader 0.15.11, this release also maybe incompatible with some mods.
+  + If everything is good, this update should lead into huge performance boost in some condition.
