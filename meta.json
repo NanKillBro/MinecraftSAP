@@ -20,7 +20,7 @@
             }
         }
     },
-      {
+    {
         "id": "v2.2",
         "releasedAt": 1710608438448,
         "promotions": {
@@ -29,7 +29,7 @@
             }
         }
     },
-      {
+    {
         "id": "v2.3",
         "releasedAt": 1713421642498,
         "promotions": {
@@ -38,7 +38,7 @@
             }
         }
     },
-       {
+    {
         "id": "v2.4",
         "releasedAt": 1719224766761,
         "promotions": {
