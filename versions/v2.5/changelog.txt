@@ -1,0 +1,6 @@
+- Fabric 1.20.4 (Release v2.5) [Performance Improvement and Bug Fixes - Huge Update after a month :D]
+  + Upstream FO 5.10.3
+  + Update: c2me, Dynamic FPS, FasterRandom, Better Statistics Screen, Controlify, CraftPresence, Cubes Without Borders, e4mc, Entity Model Features, Entity Texture Features, Iris, ModernFix, MPUC
+  + Added: Smart Chunk Loader, TCDCommons API
+  + Remove: Experimental Performance (Make chunk loading unstable), Remove Duplicate "Dynamic FPS", Remove Duplicate "ModernFix", Remove Duplicate "FasterRandom"
+  + Another: None
