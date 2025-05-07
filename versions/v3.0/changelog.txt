@@ -1,6 +1,6 @@
 - SAP 1.21.1 (Beta v3.0) [First release! Big improvement] bru too long...
   + This release is base on Fabulously Optimized 6.3.4
-  + Setup will be remove (cause it suck), switch to Modrinth mrpack for better experience. (normal zip file also avalible too)
+  + Setup will be remove (cause it suck), switch to Modrinth mrpack for better experience. You can install mrpack by using modrinth launcher or some launcher like prism launcher (normal zip file also avalible too). If you use compatible mrpack then update would be so easy.
   + This release also bring up many big change that I had ever done.
   + Still have some bugs that I had no idea how to fix it so the next release maybe also beta release.
   + Recommend using optimized java for the best experience (detailed infomation is alrealdy in README)
